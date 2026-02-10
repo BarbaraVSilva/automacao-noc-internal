@@ -18,6 +18,7 @@ Esta ferramenta foi desenvolvida para otimizar o fluxo de trabalho dos analistas
 5. Execução: Rode o comando python main.py.
 
 ⌨️ Atalhos de Operação
+
   F9: Inicia novo registro (limpa campos).
   
   F10: Repete dados fixos (Equipe/Crit/Orig) para alertas em massa.
