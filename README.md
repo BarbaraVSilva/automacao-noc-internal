@@ -10,6 +10,10 @@ Esta ferramenta foi desenvolvida para otimizar o fluxo de trabalho dos analistas
 - Persistência de Dados: Gravação direta em Excel respeitando a formatação e estilos das linhas anteriores.
 - Interface Custom: UI moderna em modo Dark feita com customtkinter.
 
+📋 Pré-requisitos
+1. Ter o **Python 3.10 ou superior** instalado.
+2. Durante a instalação do Python, marcar a opção **"Add Python to PATH"**.
+
 🚀 Como Instalar e Usar:
 1. Clone o repositório ou baixe o ZIP.
 2. Configuração Inicial: Abra o arquivo config.ini e altere o campo nome_analista para o seu nome.
@@ -18,11 +22,7 @@ Esta ferramenta foi desenvolvida para otimizar o fluxo de trabalho dos analistas
 5. Execução: Rode o comando python main.py.
 
 ⌨️ Atalhos de Operação
-
-  F9: Inicia novo registro (limpa campos).
-  
-  F10: Repete dados fixos (Equipe/Crit/Orig) para alertas em massa.
-  
-  CTRL + S: Salva no Excel da operação.
-  
-  ESC: Desliga a chamada ativa no Genesys.
+- **F9:** Inicia captura de novo alerta.
+- **F10:** Repete os dados da última equipe/criticidade.
+- **CTRL + S:** Salva os dados na planilha.
+- **ESC:** Interage com o Genesys para encerrar chamada.
