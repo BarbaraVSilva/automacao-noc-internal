@@ -1,6 +1,7 @@
 🚀 NOC Master Automation
 
 📌 Objetivo da Aplicação
+
 Esta ferramenta foi desenvolvida para otimizar o fluxo de trabalho dos analistas do NOC, reduzindo o tempo de registro de incidentes e automatizando tarefas repetitivas de telefonia (Genesys). A automação elimina o erro humano na transcrição de dados e garante a padronização do Banco de Dados (Excel/BI).
 
 🛠️ Funcionalidades Principais
